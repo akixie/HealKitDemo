@@ -6,8 +6,7 @@
 
 ### GIF效果预览如下：
 
-![预览]
-(https://github.com/akixie/HealKitDemo/blob/master/get_fit.gif)
+![预览](https://github.com/akixie/HealKitDemo/blob/master/get_fit.gif)
 
 
 
